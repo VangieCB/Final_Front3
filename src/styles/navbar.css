@@ -58,6 +58,7 @@
 }
   
   .theme-button {
+    width: 150px;
     font-size: 18px;
     padding: 8px 16px;
     border-radius: 4px;
